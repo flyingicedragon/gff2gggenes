@@ -41,4 +41,4 @@ python ./gff2gggene.py example.gff sub
 
 ### 结果输出
 
-界面显示“完成”表示程序运行成功。
+界面显示“完成”表示程序运行成功。csv 文件输出到工作路径中，文件名结尾是“_Gene.csv”或者“_SubGene.csv”。
