@@ -1,4 +1,4 @@
-# gff2gggene
+# gff2gggenes
 
 ## 依赖情况
 
@@ -24,15 +24,15 @@ pip install gffutils
 Windows 中利用 powershell 调用程序：
 
 ``` powershell
-python .\gff2gggene.py example.gff
-python .\gff2gggene.py example.gff sub
+python .\gff2gggenes.py example.gff
+python .\gff2gggenes.py example.gff sub
 ```
 
 Linux 中利用 console 调用程序：
 
 ``` shell
-python ./gff2gggene.py example.gff
-python ./gff2gggene.py example.gff sub
+python ./gff2gggenes.py example.gff
+python ./gff2gggenes.py example.gff sub
 ```
 
 根据安装 Python 的版本不同，可能需要将“python”替换为“python3”。
