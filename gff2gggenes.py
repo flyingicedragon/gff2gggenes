@@ -5,7 +5,7 @@ filePath = ''
 sub = False
 if len(sys.argv) == 2:
     filePath = str(sys.argv[1])
-elif len(sys.argv == 3):
+elif len(sys.argv) == 3:
     filePath = str(sys.argv[1])
     sub = True
 else:
